@@ -18,7 +18,7 @@ h3{
     font-size: 175%;
     line-height: 255%;
     font-weight: 500;
-    color: darkcyan;
+    color: c;
     text-align: center;
     text-transform: uppercase;
     padding: 0;
@@ -82,7 +82,7 @@ nav ul li a{
     color: darkcyan;
 }
 .current{
-    color: black;
+    color: darkcyan;
 }
 .one-thrird{
     width: 22%;
